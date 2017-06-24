@@ -1,2 +1,2 @@
 # Parallelism
-Parallelism - Spring 2015 FIB UPC
+Parallelism - Spring 2016 FIB UPC
